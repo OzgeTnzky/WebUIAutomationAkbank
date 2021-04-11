@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"Web UI Automation Test with Gauge":["specs/example.html"]}};
